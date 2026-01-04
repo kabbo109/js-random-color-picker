@@ -1,0 +1,26 @@
+body{
+  background:#0f172a;
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.box{
+  background:#020617;
+  color:white;
+  padding:30px;
+  border-radius:12px;
+  text-align:center;
+}
+
+button{
+  margin-top:12px;
+  padding:8px 16px;
+  border:none;
+  border-radius:20px;
+  background:#22c55e;
+  color:#022c22;
+  cursor:pointer;
+}
